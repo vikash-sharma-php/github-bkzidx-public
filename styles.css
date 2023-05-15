@@ -1,0 +1,18 @@
+/*
+ * Custom CSS
+ */
+
+:root {
+  --bs-body-bg: var(--bs-gray-100);
+}
+
+.card {
+  border-radius: 0;
+  border-color: #dfdfdf5e;
+}
+
+span.fw-lighter.small {
+  font-size: 10px;
+}
+
+
